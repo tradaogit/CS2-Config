@@ -54,5 +54,4 @@
 	"setting.sc_hdr_enabled_override"		"3"
 	"setting.r_low_latency"		"2"
 	"setting.aspectratiomode"		"0"
-	"setting.lb_barnlight_shadowmap_scale"		"0.500000"
 }
