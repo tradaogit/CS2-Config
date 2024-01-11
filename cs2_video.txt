@@ -2,8 +2,8 @@
 {
 	"setting.defaultres"		"YOUR RES"
 	"setting.defaultresheight"		"YOUR RES"
-	"setting.refreshrate_numerator"		"179996"
-	"setting.refreshrate_denominator"		"1000"
+	"setting.refreshrate_numerator"		"0"
+	"setting.refreshrate_denominator"		"0"
 	"setting.fullscreen"		"1"
 	"setting.mat_vsync"		"0"
 	"Version"		"11"
